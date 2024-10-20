@@ -3,3 +3,4 @@ we are at master branch
 we are at master branch making conflicts
 we are at HR making conflict
 We are adding line to push on git hub
+we are adding line here to pull command
